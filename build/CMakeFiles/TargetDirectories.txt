@@ -1,0 +1,4 @@
+/home/matheusdiogenesandrade/Dropbox/PhD/2020.2/Courses/MC970-MO644-Parallel Programming/Tasks/t6-zip-matheusdiogenesandrade/build/CMakeFiles/rebuild_cache.dir
+/home/matheusdiogenesandrade/Dropbox/PhD/2020.2/Courses/MC970-MO644-Parallel Programming/Tasks/t6-zip-matheusdiogenesandrade/build/CMakeFiles/edit_cache.dir
+/home/matheusdiogenesandrade/Dropbox/PhD/2020.2/Courses/MC970-MO644-Parallel Programming/Tasks/t6-zip-matheusdiogenesandrade/build/CMakeFiles/serial.dir
+/home/matheusdiogenesandrade/Dropbox/PhD/2020.2/Courses/MC970-MO644-Parallel Programming/Tasks/t6-zip-matheusdiogenesandrade/build/CMakeFiles/parallel.dir

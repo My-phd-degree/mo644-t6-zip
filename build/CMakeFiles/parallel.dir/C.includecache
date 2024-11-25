@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matheusdiogenesandrade/Dropbox/PhD/2020.2/Courses/MC970-MO644-Parallel Programming/Tasks/t6-zip-matheusdiogenesandrade/src/zip-parallel.c
+omp.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+sys/time.h
+-
+unistd.h
+-
+

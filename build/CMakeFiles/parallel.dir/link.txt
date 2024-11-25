@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/parallel.dir/src/zip-parallel.c.o  -o parallel  /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 
